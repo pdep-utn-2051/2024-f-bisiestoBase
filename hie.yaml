@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "esBisiesto:lib"
+
+    - path: "./test"
+      component: "esBisiesto:test:esBisiesto-test"

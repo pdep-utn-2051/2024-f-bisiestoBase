@@ -1,4 +1,10 @@
 module Library where
 import PdePreludat
 
-esBisiesto anio = False
+-- Punto 1
+-- (agregar el tipo)
+esMultiploDe = implementame
+
+-- Punto 2
+-- (agregar el tipo)
+esBisiesto = implementame
